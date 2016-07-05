@@ -6,8 +6,8 @@
 | | Fujitsu | Amazon Web Services | IBM | Microsoft
 | | IoT Platform, UBIQUITOUS WARE | AWS IoT | Watson IoT Platform | Azure for IoT
 
-| データ蓄積 | 自社内で提供可能。https://aws.amazon.com/jp/s3/[S3] などのストレージ、RDS、Redshiftなどのデータベースを利用する。| | |
-| データ解析 | | | |
+| データ蓄積 | | 自社内で提供可能。 https://aws.amazon.com/jp/s3/[S3] などのストレージ、RDS、Redshiftなどのデータベースを利用する。 | |
+| データ解析 | ヒューマンセントリックエンジン（UBIQUITOUS WARE）の独自アルゴリズムにより、すぐに使えるデータに変換できる。また、高度なデータ分析に対応したサービスも提供している（Operation Data Management & Analytics）| | |
 | クラウドサービス | | | |
 | デバイス | | | |
 | ゲートウェイ | | | |
