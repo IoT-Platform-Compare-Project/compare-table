@@ -1,0 +1,24 @@
+[options="header"]
+|===
+
+| | Fujitsu | Amazon Web Services | IBM | Microsoft
+| | IoT Platform, UBIQUITOUS WARE | AWS IoT | Watson IoT Platform | Azure for IoT
+
+| データ蓄積 | | | |
+| データ解析 | | | |
+| クラウドサービス | | | |
+| デバイス | | | |
+| ゲートウェイ | | | |
+
+| パッケージ種類 | | | |
+| サービス連携 | | | |
+| 通信方式（クラウド - ゲートウェイ） | MQTT, HTTPS| | |
+| 通信方式（ゲートウェイ - センサーノード） | BLE | | |
+| 料金体系 | | | |
+| トライアルサービス | | | |
+
+| 各製品の強み | | | |
+| 富士通製品との違い  | | | |
+| 富士通製品のセールスポイント  | | | |
+
+|===
