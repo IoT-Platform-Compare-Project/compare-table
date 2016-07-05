@@ -1,0 +1,47 @@
+= IoT Platform 製品比較
+
+更新日：2016年7月5日
+
+IoT Platform製品について、富士通製品と競合他社の各製品を比較します。
+本書におけるIoT Platformとは、IoTシステム構築を容易にするクラウドサービスを指す。
+デバイスやゲートウェイ、データ収集・解析などの機能を含む。
+
+
+== 対象製品
+
+* Fujitsu
+
+** Fujitsu Cloud Service IoT Platform
+
+** Fujitsu IoT Solution UBIQUITOUS WARE
+
+** Fujitsu Business Application Operational Data Management & Analytics
+
+* Amazon Web Services
+
+** AWS IoT
+
+* IBM
+
+** Watson IoT Platform
+
+* Microsoft
+
+** Azure IoT Suite
+
+== 各社の取り組み・製品概要
+
+=== Fujitsu
+
+IoTに対応したクラウドサービスとして「IoT Platform」を提供し、「Operational Data Management & Analytics」と組み合わせることで、
+クラウド上で高度なデータ解析を行うことができる。
+
+IoTパッケージ「UBIQUITOUS WARE」は、センサー及びセンシングデータを解析するマイコンと通信機能を組み合わせたコアモジュールと、
+データをクラウド上で学習・分析するセンサー活用ミドルウェア。独自アルゴリズムであるヒューマンセントリックエンジンにより、
+転倒検知や身体姿勢状態検知など、すぐに活用できるデータに変換することができる。
+
+=== Amazon Web Services
+
+=== IBM
+
+=== Microsoft
