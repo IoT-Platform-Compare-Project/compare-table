@@ -1,11 +1,12 @@
 [options="header"]
 [cols="1,2,2,2,2"]
+
 |===
 
 | | Fujitsu | Amazon Web Services | IBM | Microsoft
 | | IoT Platform, UBIQUITOUS WARE | AWS IoT | Watson IoT Platform | Azure for IoT
 
-| データ蓄積 | | | |
+| データ蓄積 | 自社内で提供可能。https://aws.amazon.com/jp/s3/[S3] などのストレージ、RDS、Redshiftなどのデータベースを利用する。| | |
 | データ解析 | | | |
 | クラウドサービス | | | |
 | デバイス | | | |
